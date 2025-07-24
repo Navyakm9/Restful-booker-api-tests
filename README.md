@@ -23,7 +23,7 @@ This project contains API  test cases for the [Restful Booker API](https://restf
 
 1. Import the collection and environment files into Postman.
 2. Set the base URL in the environment (e.g., `https://restful-booker.herokuapp.com`).
-3. Use `Send` or run the full collection using Collection Runner or Newman.
+3. Use `Send` or run the full collection using Collection Runner.
 
 ## Tools used
 1.POSTMAN
